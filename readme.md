@@ -6,6 +6,6 @@ This project was part of Advanced PHP Programming course during 2022 winter seme
 <br>
 Name of other collaborators and their profiles are as follows:
 
-- Marcin Słyś: https://github.com/maahcin
+- Jakub Owczarek: https://github.com/owczr
 - Patryk Sroka: https://github.com/PatrykSrokax
 - Shamte Ndiaye: https://github.com/ShamteN
